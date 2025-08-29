@@ -214,16 +214,16 @@ plt.show()
 ## Output:
 
 - **Read and Display an Image**  
-  ![Original](image.png)
+  ![alt text](image.png)
 
 - **Adjust Image Brightness**  
-  ![Brightness](image-1.png)
+  ![alt text](image-1.png)
 
 - **Modify Image Contrast**  
-  ![Contrast](image-2.png)
+  ![alt text](image-2.png)
 
 - **Generate Third Image Using Bitwise Operations**  
-  ![Bitwise](image-3.png)
+  !![alt text](image-3.png)
 
 
 ## Result:
