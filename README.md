@@ -223,7 +223,7 @@ plt.show()
   ![alt text](image-2.png)
 
 - **Generate Third Image Using Bitwise Operations**  
-  !![alt text](image-3.png)
+  ![alt text](image-4.png)
 
 
 ## Result:
